@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean id="mobileList" class="web.controller.MobileListController">
+	</bean>
+	<bean id="detailMobile" class="web.controller.MobileDetailController">
+	</bean>
+	<bean id="deleteMobile" class="web.controller.MobileDeleteController">
+	</bean>
+	<bean id="registMobile" class="web.controller.MobileRegistController">
+	</bean>
+</beans>
